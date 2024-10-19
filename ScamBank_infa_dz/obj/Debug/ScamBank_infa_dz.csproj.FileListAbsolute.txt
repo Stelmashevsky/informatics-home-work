@@ -1,0 +1,15 @@
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.csproj.AssemblyReference.cache
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.Properties.Resources.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.csproj.GenerateResource.cache
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.csproj.CoreCompileInputs.cache
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\bin\Debug\ScamBank_infa_dz.exe.config
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\bin\Debug\ScamBank_infa_dz.exe
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\bin\Debug\ScamBank_infa_dz.pdb
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.exe
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.pdb
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.WelcomeForm.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.ConsultForm.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.ManagerForm.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.sManagerForm.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.DataBaseForm.resources
+C:\Users\Platon\source\repos\ScamBank_infa_dz\ScamBank_infa_dz\obj\Debug\ScamBank_infa_dz.RegistrationForm.resources
